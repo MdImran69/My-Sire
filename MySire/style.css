@@ -1,0 +1,346 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background-image: url(Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 750vh;
+}
+
+section{
+    background-image: url(Untitled\ design\ \(1\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    position: relative;
+    
+}
+
+section div:first-child{
+    margin-left: 8%;
+    margin-top:13% ;
+    position: absolute;
+    width: 70%;
+    height: 100px;
+   
+}
+
+section div:last-child{
+    margin-top: 23%;
+    margin-right: 80%;
+    width: 45%;
+    height: 12%;
+}
+
+section div:last-child ul{
+
+    display: flex;
+    text-decoration: none;
+}
+
+section div:last-child ul li{
+    font-size: 40px;
+    list-style: none;
+    padding-left: 10%;
+    color: grey;
+}
+
+.secbar{
+    width: 80%;
+    height: 350px;
+    margin: auto;
+    margin-top: 3.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+
+}
+
+.secbar img{
+    width: 300px;
+    height: 240px;
+    float: left;
+    margin-top: 4.3%;
+    margin-left: 5.5%;
+}
+
+.secbar div{
+    width: 350px;
+    height: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+.secbar div ul li{
+    list-style: none;
+}
+
+.secbar div ul li i{
+    font-size: 30px;
+}
+
+.facebook{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.facebook img{
+    width: 400px;
+    height: 240px;
+    float: left;
+    margin-top: 4.3%;
+    margin-left: 5.5%;
+}
+
+.facebook div{
+    width: 450px;
+    height: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+
+.facebook div ul li{
+    list-style: none;
+}
+
+.facebook div ul li i{
+    font-size: 30px;
+}
+
+.instagram{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.instagram img{
+    width: 400px;
+    height: 240px;
+    float: left;
+    margin-top: 4.3%;
+    margin-left: 5.5%;
+}
+
+.instagram div{
+    width: 450px;
+    height: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+
+.instagram div ul li{
+    list-style: none;
+}
+
+.instagram div ul li i{
+    font-size: 30px;
+}
+
+.twitter{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.twitter img{
+    width: 400px;
+    height: 240px;
+    float: left;
+    margin-top: 4.3%;
+    margin-left: 5.5%;
+}
+
+.twitter div{
+    width: 450px;
+    height: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+
+.twitter div ul li{
+    list-style: none;
+}
+
+.twitter div ul li i{
+    font-size: 30px;
+}
+
+.youtube{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.youtube img{
+    width: 400px;
+    height: 240px;
+    float: left;
+    margin-top: 4.3%;
+    margin-left: 5.5%;
+}
+
+.youtube div{
+    width: 450px;
+    height: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+
+.youtube div ul li{
+    list-style: none;
+}
+
+.youtube div ul li i{
+    font-size: 30px;
+}
+
+
+.google{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.google img{
+    width: 400px;
+    height: 240px;
+    float: left;
+    margin-top: 4.3%;
+    margin-left: 5.5%;
+}
+
+.google div{
+    width: 450px;
+    height: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+
+.google div ul li{
+    list-style: none;
+}
+
+.google div ul li i{
+    font-size: 30px;
+}
+
+.secbart{
+    width: 80%;
+    height: 630px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.secbart iframe{
+    width:200px ;
+    height: 220px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.secbarh{
+    width: 80%;
+    height: 350px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+}
+
+.secbarh div{
+    width: 80%;
+    height: 280;
+    margin-top: 2%;
+    position: absolute;
+}
+
+form {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 30px;
+    padding-bottom: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    height: 220px;
+    margin: auto;
+
+  }
+
+  label {
+    
+    margin-bottom: 8px;
+  }
+
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+  }
+
+  
+
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  .secthbar{
+    width: 80%;
+    height: 350px;
+    margin: auto;
+    margin-top: 5.5%;
+    background-color: rgba(128, 128, 128, 0.472);
+  }
+
+  .secthbar  iframe{
+    width: 70%;
+    height: 220px;
+    margin-top: 5%;
+    margin-left: 15%;
+    
+  }
+
+.footer{
+    width: 100%;
+    height: 60px;
+    bottom: 0%;
+    position: absolute;
+}
+
+
+
+
+ 
+    
+    
+    
+    
